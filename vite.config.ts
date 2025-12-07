@@ -9,6 +9,6 @@ export default defineConfig({
     react(),
     // tailwindcss(),
   ],
-  base: "/milkywoosh.github.io/",
-  
+  base: "/",
+
 })
