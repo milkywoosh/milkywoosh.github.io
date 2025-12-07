@@ -10,4 +10,5 @@ export default defineConfig({
     // tailwindcss(),
   ],
   base: "/milkywoosh.github.io/",
+  
 })
