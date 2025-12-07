@@ -25,3 +25,8 @@ ada 3 modes
 - DECLARATIVE (currently using this)
 - DATA
 - FRAMEWORK
+
+========== Proses Deploy to Github Page =================
+
+edit master branch => push => dia akan otomatis build dan merge to gh-pages branch di gh
+jika mau edit, ke cp2-tailwind dulu => merge ke master => auto build
